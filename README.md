@@ -12,8 +12,8 @@ IDE: Visual Studio 2022
 - [x] ЛР1 — Разминка с потоками: [проект](lab1/CMakeProjectLab1/) · [отчёт](lab1/Отчет_ЛР1.docx)
 - [x] ЛР2 — What's going on?: [проект](lab2/CMakeProjectlab2/) · [отчёт](lab2/Отчет_ЛР2.docx)
 - [x] ЛР3 — 100 и 1 монета: [проект](lab3/CMakeProjectlab3/) · [отчёт](lab3/Отчет_ЛР3.docx)
-- [ ] ЛР4
-- [ ] ЛР5
+- [x] ЛР4 — Три толстяка: [проект](lab4/CMakeProjectLab4/) · [отчёт](lab4/Отчет_ЛР4.docx)
+- [x] ЛР5 — Самодельный мьютекс: [проект](lab5/CMakeProjectLab5/) · [отчёт](lab5/Отчет_ЛР5.docx)
 - [ ] ЛР6 — Корутины
 
 ## Структура
